@@ -20,4 +20,6 @@
 ![image](https://github.com/user-attachments/assets/dfe12c60-9d1d-43aa-ae58-6666499309b7)
 
 **II. Caption**
-
+1. Truy cập [link này](https://bintnt.github.io/muaHe/) để vào trang lấy caption
+2. Chỉ việc bấm copy là cap sẽ tự cop, sau đó chỉ việc dán và đăng
+3. Cap sẽ ngẫu nhiên nên yên tâm là tỉ lệ trùng khá thấp...
