@@ -1,0 +1,44 @@
+.extension-fa {
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    width: 250px;
+    height: 410px;
+    background: linear-gradient(#a4c4f5,#8ffcd2);
+    bottom: 400px;
+    border-radius: 5px 5px 0 0;
+    font-size: 20px;
+    position: fixed;
+    right: 20px;
+    z-index: 100;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+}
+
+#myInput_{
+    width: 100%;
+    height: 30%;
+}
+.extension-fa #myInput{
+    margin: 0;
+}
+.extension-fa input[type='checkbox'], .extension-fa label{
+    height: 20px;
+    cursor: pointer;
+    padding: 5px;
+}
+.extension-fa label{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.extension-fa #myInput_{
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 255, 0.363);
+}
+.extension-fa #myInput_:active{
+    background-color: rgba(255, 0, 255, 0.61);
+}

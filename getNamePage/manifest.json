@@ -1,0 +1,16 @@
+{
+  "name": "Lấy tên page meta",
+  "version": "1.0",
+  "description": "Làm gì đó",
+  "manifest_version": 3,
+  "action":{
+    "default_popup": ""
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://business.facebook.com/*"],
+      "css": ["css/style.css"],
+      "js": ["js/main.js"]
+    }
+  ]
+}
