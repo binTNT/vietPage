@@ -1,4 +1,5 @@
 # HD Viết Page
+**I. Cài extension**
 1. Đầu tiên tải extension sau
 [extension](https://github.com/binTNT/vietPage/raw/main/getNamePage.rar)
 2. Sau khi tải về xong giải nén
@@ -17,4 +18,6 @@
 ![image](https://github.com/user-attachments/assets/18be42fe-52b6-4aae-b364-5dc5eec4f525)
 10. Ta chỉ việc bấm copy thì phần liên hệ sẽ tự cop. Ví dụ
 ![image](https://github.com/user-attachments/assets/dfe12c60-9d1d-43aa-ae58-6666499309b7)
+
+**II. Caption**
 
