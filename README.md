@@ -4,7 +4,7 @@
 [extension](https://github.com/binTNT/vietPage/raw/main/getNamePage.rar)
 2. Sau khi tải về xong giải nén
 3. Mở Chrome của acc viết page
-4. Gõ [**chrome://extensions**](chrome://extensions) để vào mục extension
+4. Gõ [chrome://extensions](chrome://extensions) để vào mục extension
 ![image](https://github.com/user-attachments/assets/5459df4c-8638-453e-9bee-126f5520e382)
 5. Bật chế độ developer mode
 ![image](https://github.com/user-attachments/assets/1a206efa-39a6-4418-bc19-acd4462bfa5e)
